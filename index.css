@@ -167,5 +167,7 @@ body{
       border: none;
       outline: none;
       font-size: 13px;
+      font-weight: bold;
+      font-style: inherit;
     }
   
