@@ -2,9 +2,9 @@ const posterImage = document.getElementById("poster")
 const foodTitle = document.getElementById("title")
 const foodDescription = document.getElementById("food-info")
 const reviewList = document.getElementsByClassName("reviews")[0]
-const btn = document.getElementById["place-order","cancel-order"]
+const btn = document.getElementById("place-order")
 const foodList = document.getElementById("food-sec")
-
+const searchBtn =document.getElementById("search-btn")
 
 
 document.addEventListener("DOMContentLoaded",onload)
@@ -75,4 +75,21 @@ function clickedFoodDisplay(id) {
 btn.addEventListener("click",() =>{
   alert("successfully placed an order")
 })
+// order  not picked
+ btn.addEventListener("click",()=>{
+    alert("order-canceled")
+})
+searchBtn.addEventListener("click", () => {
+    let userInp = document.getElementById("user-inp").value;
+    if (userInp.length == 0) {result.innerHTML 
+} else {
+  fetch(url + userInp)
+    .then((response) => response.json())
+    .then((data) => {
+      let myfoodOrder = data.food[0];
+    })
+}
+})
+
+
 
