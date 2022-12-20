@@ -1,5 +1,5 @@
 body{
-    background-image:url(https://cdn.pixabay.com/photo/2016/10/27/22/52/apples-1776744_960_720.jpg);
+    background-image:url(https://media.istockphoto.com/id/1215516074/photo/shopping-basket-with-fresh-food-isolated-on-white-grocery-supermarket-food-and-eats-online.jpg?s=612x612&w=0&k=20&c=feX2DMmoW0c36k8eQdHM2SGcMu_IAj3lFrf3VMRf-qU=);
   background-color: aqua;
   background-repeat: no-repeat;
   background-position: up;
@@ -22,7 +22,7 @@ body{
     justify-content: center; */
   }
   .title {
-    background-color: #e91515;
+    background-color: #0f0d0d;
     padding: 5px;
     color: rgb(133, 132, 132);
     text-align: center;
