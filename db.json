@@ -1,0 +1,107 @@
+
+{
+  "foodies": [
+    {
+      "id": 1,
+      "name": "  veggie burger",
+      "description": "large burger.",
+      "image_url":"https://media.istockphoto.com/id/1248306530/photo/vegan-falafel-burger-with-vegetables-and-sauce-dark-background-copy-space-healthy-plant-based.jpg?s=612x612&w=0&k=20&c=QafGTsgiYLPWD9PU-cF2JEDlxjY1fNeGhi7N15-2v7o=",
+      "reviews":[
+       "Made by well defined wheat",
+        "spicy and delicious you wont wish to miss",
+        "The cole-slow brings me back everytime,such a statement maker!",
+        "price [kshs] 250"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "sphagetti with tomatoes",
+      "description": "Large spaghetti with tomatoes!",
+      "image_url": "https://media.istockphoto.com/id/174790734/photo/spaghetti-with-tomato-sauce.jpg?s=612x612&w=is&k=20&c=a2Z3H3ZeeXALue-d9C5kcfNnDkETrHz9DzKouLBkWJs=",
+         "reviews": [
+          "Generous fresh Toppings, Loved IT",
+          "Large burgers ae the thing",
+          "The salad was the best part",
+          "Buy one at [kshs]500 get one free"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Chips Chicken",
+      "description": "Two pieces of chicken an a bucket of chips",
+      "image_url":"https://media.istockphoto.com/id/458899491/photo/fries-and-nuggets.jpg?s=612x612&w=0&k=20&c=nHrNpAMUraFLOeMFDOIGRB4oDtKD-Yg_0WLvgESb4o4=",
+      "reviews": [
+        "Its delicious and fingerlicking two pieces of chicken and a bucket of chips",
+        "place your order now at only[kshs] 550"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Crunchy oven-baked meat",
+      "description": "Tastes like memories",
+      "image_url": "https://media.istockphoto.com/id/467413730/photo/grilled-lamb-chops-organized-on-a-white-plate-on-wood.jpg?s=612x612&w=0&k=20&c=XyYp05pGAQx5FqYV6diCbaC1puKaeAzVOVvQIS845bY=",
+      "reviews": [
+        "Very cripsy",
+        "Great size,and golden color",
+        "price:[kshs]300"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Pizza",
+      "description": "Sticky barbecued wings and chest with a burst of flavours",
+      "image_url": "https://media.istockphoto.com/id/1188707285/photo/pepperoni-pizza-with-mozzarella-cheese-salami-tomato-sauce-pepper-spices-and-fresh-arugula.jpg?s=612x612&w=0&k=20&c=TN0ZLIuJNAzqh5ObTllnPZgf5PxYFeFyGeu9Wfc4MQk=",
+      "reviews": [
+          "From our Italian's best chef",
+          "On offer during happy hour",
+          "price[kshs] 330"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Beef Boerwors",
+      "description": "Instant Grill and served with sauted onions,mayonesse and love!",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB2GURXZZcfIbLPuPOcjADpkxjWOZt9U6j2A&usqp=CAU",
+      "reviews": [
+          "Lots of salad and onions, loved IT!",
+          "Grilled to perfection",
+          "So tasty",
+          "price:[kshs 400"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "ukrainan dill potatoes",
+      "description": "Pasta sensation with lots of cheese",
+      "image_url": "https://cdn.pixabay.com/photo/2017/08/17/19/40/ukrainian-dill-potatoes-2652561__340.jpg",
+      "reviews": [
+        "It's a flavor that makes you wonder",
+        "Can/'t go a day without",
+        "Makes Lunch the best part of the day!",
+        "price:[kshs] 400"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "fruit-salad",
+      "description": "freshly made fruit-salad",
+      "image_url": "https://cdn.pixabay.com/photo/2017/11/10/23/55/fruit-2938008__340.jpg",
+      "reviews": [
+          "healthy salad thats really fresh from the farmers choice",
+          "get yourself one and start your journey to a healthy living",
+          "price [kshs]100"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Beef steak",
+      "description": "Taste some sweetness with a crunchy  meat wellroasted ",
+      "image_url": "https://cdn.pixabay.com/photo/2018/09/14/11/12/food-3676796__340.jpg",
+      "reviews": [
+          "well roasted meat enough for the entire family",
+          "It can be served with yor favorite meal",
+          "price:390"
+      ]
+    }
+  ]
+}

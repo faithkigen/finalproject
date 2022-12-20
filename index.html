@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Wanda,s food order</title>
+  <link rel="stylesheet" href="./index.css">
+</head>
+<body>
+   <!--searchbar-->
+   <div class="topnav">
+    <a class="active" href="#home">Home</a>
+    <a href="#about">About</a>
+    <a href="#contact">Contact</a>
+    <input type="text" placeholder="Search..">
+  </div>
+  <!-- navbar -->
+  <ul>
+    <li><a href="#home">Home</a></li>
+    <li><a href="#news">News</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#about">About</a></li>
+  </ul>
+ <div class="logins">
+   <div class="signup">
+    <a href="#">Sign-up</a>
+    <button id="start"><a href="#">Get started</a></button>
+   </div>
+ </div>
+    <div class="container">
+    <div class="ui-centered-grid">
+      <div class="list-card">
+      <div class="four-wide-column">
+        <div class="list-container">
+          <!-- foodlist -->
+          <ul class="ui-divided-list" id="food-sec">
+            <li class="food-item">Make your pick here</li>
+          </ul>
+        </div>
+      </div>
+      <!--In this example, we remove the bullets from the list, and its default padding and margin-->
+      <!-- poster -->
+      <div class="food-sec-image">
+        <img id="poster"
+          src="https://www.tonychachere.com/wp-content/uploads/2022/03/Creole-for-the-Soul-Buffalo-Chicken-Lollipops-5.jpg"
+          alt="[Finger-licking good]" />
+      </div>
+    </div>
+      <!-- showing info -->
+      <div class="four-wide-column">
+        <div class="ui-cards" id="showing">
+          <div class="card">
+            <div id="title" class="title">[FOOD TITLE]</div>
+            <div id="food-info">[food details]</div>
+            <div class="reviews">[View Reviews]</div>
+          </div>
+        </div>
+        <div class="button">
+          <button id="place-order">
+           <marquee>MAKE-ORDER
+          </marquee>
+           </button>
+             <button class="cancel-order"
+            button id="cance-order"><marquee>CANCEL-ORDER
+              </marquee>
+            </button>
+            <!--checkbox-->
+            <div class="checkbox">
+            <button id="submit"> Submit</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="./index.js"></script>
+</body>
+</html>
+
