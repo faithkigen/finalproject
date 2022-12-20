@@ -90,7 +90,7 @@ body{
   }
   
   #place-order{
-  background-color: rgb(12, 202, 231);
+  background-color: rgb(202, 231, 12);
   }
   .cancel-order{
   background-color: rgb(67, 17, 192);
@@ -109,7 +109,7 @@ font-style: italic;
   
   #start{
   background-color:#ed1fa8;
-  color: #FAFAFA;
+  color: hsl(0, 0%, 2%);
   padding: 20px ;
   border-radius: 5x;
   border: none;
@@ -121,7 +121,7 @@ font-style: italic;
   .logins{
   margin-right: 60%;
   background-color: hsl(130, 37%, 97%);
-  /* background-color: blue; */
+
   }
   /* Add a black background color to the top navigation bar */
   .topnav {

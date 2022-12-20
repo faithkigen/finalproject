@@ -16,12 +16,11 @@
     {
       "id": 2,
       "name": "sphagetti with tomatoes",
-      "description": "Large spaghetti with tomatoes!",
+      "description": "colourful sphagetti",
       "image_url": "https://media.istockphoto.com/id/174790734/photo/spaghetti-with-tomato-sauce.jpg?s=612x612&w=is&k=20&c=a2Z3H3ZeeXALue-d9C5kcfNnDkETrHz9DzKouLBkWJs=",
          "reviews": [
           "Generous fresh Toppings, Loved IT",
-          "Large burgers ae the thing",
-          "The salad was the best part",
+          "The tomatoes addded made it more sweeter",
           "Buy one at [kshs]500 get one free"
       ]
     },
@@ -42,6 +41,7 @@
       "image_url": "https://media.istockphoto.com/id/467413730/photo/grilled-lamb-chops-organized-on-a-white-plate-on-wood.jpg?s=612x612&w=0&k=20&c=XyYp05pGAQx5FqYV6diCbaC1puKaeAzVOVvQIS845bY=",
       "reviews": [
         "Very cripsy",
+        "well roasted",
         "Great size,and golden color",
         "price:[kshs]300"
       ]
@@ -76,7 +76,7 @@
       "image_url": "https://cdn.pixabay.com/photo/2017/08/17/19/40/ukrainian-dill-potatoes-2652561__340.jpg",
       "reviews": [
         "It's a flavor that makes you wonder",
-        "Can/'t go a day without",
+        "Can't go a day without",
         "Makes Lunch the best part of the day!",
         "price:[kshs] 400"
       ]
