@@ -2,8 +2,9 @@ const posterImage = document.getElementById("poster")
 const foodTitle = document.getElementById("title")
 const foodDescription = document.getElementById("food-info")
 const reviewList = document.getElementsByClassName("reviews")[0]
-const btn = document.getElementById("place-order")
+const btn = document.getElementById["place-order","cancel-order"]
 const foodList = document.getElementById("food-sec")
+
 
 
 document.addEventListener("DOMContentLoaded",onload)

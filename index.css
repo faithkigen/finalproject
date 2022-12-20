@@ -93,7 +93,7 @@ body{
   #place-order{
   background-color: rgb(12, 202, 231);}
   #cancel-order{
-  background-color: rgb(192, 17, 17);
+  background-color: rgb(67, 17, 192);
   }
   #submit{
     background-color: rgb(239, 157, 50);
@@ -111,8 +111,8 @@ body{
   font-style: unset;
   }
   .logins{
-  margin-left: 60%;
-  background-color: #21f344;
+  margin-right: 60%;
+  background-color: hsl(130, 37%, 97%);
   /* background-color: blue; */
   }
   /* Add a black background color to the top navigation bar */
