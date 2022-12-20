@@ -150,3 +150,32 @@ body{
     .topnav input[type=text] {
       border: 1px solid burlywood;
     }
+    .search-bar{
+      background-color: #0F4735;
+      width: 10%;
+      max-width: 200px;
+      display: flex;
+      padding: 2px;
+      border-radius: 4px;
+    }
+    #select{
+      background-color: burlywood;
+      display: flex;
+      align-items: center;
+      color: #ed1fa8;
+      width: 10px;
+      padding: 10px,15px;
+      cursor: pointer;
+      
+    }
+    #select ul{
+      position: absolute;
+      top: 100%;
+      background-color: aliceblue;
+      width: 80%;
+      border-radius: 3px;
+    }
+    #select ul li{
+      padding: 10px;
+      cursor: pointer;
+    }
