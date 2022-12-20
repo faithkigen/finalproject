@@ -86,15 +86,9 @@ body{
   list-style-type: none;
   cursor: pointer;
   font-style: oblique;
-  text-align: right;
+  text-align: center;
   }
-  .food-sec-image {
-  padding: 1em;
-  }
-  .food-sec-image img {
-  /* max-width: 100%; */
-  height: 50vh;
-  }
+  
   #place-order{
   background-color: rgb(12, 202, 231);
   }
@@ -116,6 +110,7 @@ body{
   margin-left: 80px;
   text-align: center;
   font-style: unset;
+  
   }
   .logins{
   margin-right: 60%;

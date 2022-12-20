@@ -39,8 +39,8 @@ imgObj.reviews.forEach(review =>{
 foodList.innerHTML = ""
 function displayList(foodListArr){
 foodListArr.forEach(food => {
-  // let foodName = food.name
-  // console.log(foodList+"before");
+   let foodName = food.name
+  console.log(foodList+"before");
   // foodList.innerHTML += `<li class="food-item">${foodName}<li/>`
   // console.log(foodList);
   let li = document.createElement("li");
@@ -63,13 +63,13 @@ fetch("http://localhost:3000/foodies")
   clickedFoodDisplay(newId);
 })
 }
-
 function clickedFoodDisplay(id) {
   fetch(`http://localhost:3000/foodies/${id}`)
   .then(resp =>resp.json())
   .then( data => {
     firstImageLoad(data)
   })
+
 }
 
 btn.addEventListener("click",() =>{
