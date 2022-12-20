@@ -1,15 +1,18 @@
 body{
-    background-image:url(https://media.istockphoto.com/id/1194649943/photo/pizza-delivery-guy-on-bicycle.jpg?b=1&s=170667a&w=0&k=20&c=NrF1HtD8aVW6BBAUECY9OWcjQpUpDp-82hk8XFPMyFI=);
+    background-image:url(https://media.istockphoto.com/id/1194650032/photo/man-delivering-pizza-in-city.jpg?b=1&s=170667a&w=0&k=20&c=cVJV8zcb-YsF9ez-BHEgXo8dn0Kz3Qih4ODE-CCKMYE=);
+  background-color: aqua;
   background-repeat: no-repeat;
+  background-position: up;
   background-size: 100%;
   }
     textarea{
-    color:white;
+    color:rgb(199, 170, 62);
     font-weight: bold;
-    background-color: white;
+    background-color: #ffffff;
   }
   .heading {
-    background-color: hsl(23, 73%, 44%);
+    color: hsl(90, 4%, 71%);
+
     margin-bottom: 10px;
     padding: 10px;
     font-style: italic;
@@ -19,20 +22,22 @@ body{
     justify-content: center; */
   }
   .title {
-    background-color: #333333;
+    background-color: #e91515;
     padding: 5px;
-    color: black;
+    color: rgb(133, 132, 132);
     text-align: center;
     font-size: large;
   }
   .content {
-    color:black;
+    color:#161614;
     margin: 100px;
     text-align: center;
     font-size: bold;
+    font-weight: 200;
+    font-style: italic;
   }
   #subtitle {
-    color: black;
+    color: rgb(161, 21, 161);
     margin-left: 200px;
     text-align: center;
   }
@@ -43,7 +48,7 @@ body{
     content: "";
   }
   .food {
-    font-size: 16px;
+    font-size: 20px;
     text-transform: uppercase;
   }
   .sold-out {
