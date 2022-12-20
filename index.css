@@ -101,6 +101,12 @@ body{
     font-style: oblique;
     font-weight: bold;
   }
+  #cancel{
+background-color: rgb(89, 92, 92);
+font-weight: bold;
+font-style: italic;
+  }
+  
   #start{
   background-color:#ed1fa8;
   color: #FAFAFA;
